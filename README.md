@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Mas Fank 👋</h1>
-<h1 align="center">
-  I'm
-  <img align="middle" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=25&pause=500&color=4F81F7&vCenter=true&width=210&height=100&lines=Web+Developer;Mobile+Developer;Full+Stack+Developer" alt="Typing animation">
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/masfank/masfank/main/typing.svg" alt="I'm Web Developer, Mobile Developer, Full Stack Developer">
+</p>
 <p align="center">
   I build clean, reliable, and user-friendly applications.
 </p>
